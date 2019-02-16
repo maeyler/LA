@@ -3,9 +3,9 @@
 ### Course Contents
 Matrices, determinants, eigenvalues and eigenvectors, inverse matrix. Systems of linear equations and solutions by reduction to row-echelon form and Cramer's rule.
 
-### Textbook
-_Linear Algebra_ by Seyfettin Fakıoğlu 
-FSM VAKIF ÜNİVERSİTESİ YAYINLARI 
+### Textbooks
+* _Linear Algebra_ by [Seyfettin Fakıoğlu](https://www.pandora.com.tr/kitap/linear-algebra-lineer-cebir/458419), FSM VAKIF ÜNİVERSİTESİ YAYINLARI (2015)
+* _18-06_ by [Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/), MIT open courseware (2010)
 
 ### Weekly Outline
 <pre>
@@ -25,7 +25,7 @@ FSM VAKIF ÜNİVERSİTESİ YAYINLARI
 14	15.05	Eigenvalues and Eigenvectors
 15	22.05	Eigenvalues and Eigenvectors
 16	 ?.06	Final exam -- 40%
-<pre>
+</pre>
 
 ### Grading
 Indicated above (3 exams)
