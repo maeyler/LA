@@ -1,11 +1,12 @@
 ## Linear Algebra
 
 ### Course Contents
-Matrices, determinants, eigenvalues and eigenvectors, inverse matrix. Systems of linear equations and solutions by reduction to row-echelon form and Cramer's rule.
+Vectors, matrices, determinants, inverse matrix. Systems of linear equations and solution by reduction to row-echelon form. Vector spaces, Linear Transformations, eigenvalues and eigenvectors.
 
-### Textbooks
-* _Linear Algebra_ by [Seyfettin Fakıoğlu](https://www.pandora.com.tr/kitap/linear-algebra-lineer-cebir/458419), FSM VAKIF ÜNİVERSİTESİ YAYINLARI (2015)
-* _18-06_ by [Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/), MIT open courseware (2010)
+### Textbook
+* [_Linear Algebra_ by Seyfettin Fakıoğlu](https://www.pandora.com.tr/kitap/linear-algebra-lineer-cebir/458419), FSM VAKIF ÜNİVERSİTESİ YAYINLARI (2015)
+
+* [Useful Links](https://maeyler.github.io/LA/work/)
 
 ### Weekly Outline
 <pre>
@@ -20,8 +21,8 @@ Matrices, determinants, eigenvalues and eigenvectors, inverse matrix. Systems of
 9	10.04	Real Vector Spaces
 10	17.04	Inner Product Spaces
 11	24.04	Linear Transformations and Matrices
-12	 ?.05	MIDTERM 2 -- 30%
-13	08.04	Linear Transformations and Matrices
+12	29.04 Monday MIDTERM 2 -- 30%
+13	08.05	Linear Transformations and Matrices
 14	15.05	Eigenvalues and Eigenvectors
 15	22.05	Eigenvalues and Eigenvectors
 16	 ?.06	Final exam -- 40%
