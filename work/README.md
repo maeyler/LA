@@ -1,6 +1,6 @@
 ## Useful Links
 
-Important Tool: [Solver](https://maeyler.github.io/JS/linear/Matrix.html)
+Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
 [Sample Problems](https://github.com/maeyler/PlainJava/blob/master/linear/sample%20problems.xls?raw=true)
 
