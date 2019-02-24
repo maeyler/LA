@@ -1,5 +1,18 @@
 ## Useful Links
 
+Important Tool: [Solver](https://maeyler.github.io/JS/linear/Matrix.html)
+
+[Sample Problems](https://github.com/maeyler/PlainJava/blob/master/linear/sample%20problems.xls?raw=true)
+
+
+### Feb 27
+* [Gaussian Elimination](https://www.wikiwand.com/en/Gaussian_elimination#Definitions_and_example_of_algorithm)
+
+* [WolframAlpha](https://www.wolframalpha.com/input/?i=2x%2By-z%3D8,+-3x-y%2B2z%3D-11,+-2x%2By%2B2z%3D-3)
+
+* [MIT Lecture 2](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-2-elimination-with-matrices/)
+
+
 ### Feb 20
 * [Introduction](http://math.mit.edu/~gs/linearalgebra/linearalgebra5_1-3.pdf)
 
