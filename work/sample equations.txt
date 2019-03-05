@@ -1,0 +1,24 @@
+Problems with infinite solutions
+--------------------------------
+2 -1  3 -3
+1 -2  0  b
+a  1  1  1
+Determine a, b 
+Find all solutions
+
+
+Prob 5c in jpg
+0 10 -4  1  1
+1  4 -1  1  2
+3  2  1  2  5
+-2 -8 2 -2 -4
+1 -6  3  0  1
+
+
+Fakioglu p.14
+1  1 -2  1  3  1
+3  2 -4 -3 -9  3
+2 -1  2  2  6  2
+6  2 -4  0  0  6
+0  2 -4 -6 -18 0
+

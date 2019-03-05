@@ -2,8 +2,13 @@
 
 Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
-[Sample Problems](https://github.com/maeyler/PlainJava/blob/master/linear/sample%20problems.xls?raw=true)
 
+### Mar 6
+* [Row echelon form](https://www.wikiwand.com/en/Row_echelon_form)
+
+* [Sample equations](sample equations.txt)
+
+* [Sample problems](sample problems.md)
 
 ### Feb 27
 * [Gaussian Elimination](https://www.wikiwand.com/en/Gaussian_elimination#Definitions_and_example_of_algorithm)
