@@ -2,6 +2,13 @@
 
 Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
+### Mar 13
+* [Determinant Wikipedia](https://www.wikiwand.com/en/Determinant)
+
+* [Determinant Mathworld](http://mathworld.wolfram.com/Determinant.html)
+
+* [Class work](class%20work.png)
+
 
 ### Mar 6
 * [Row echelon form](https://www.wikiwand.com/en/Row_echelon_form)
