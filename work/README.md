@@ -2,6 +2,15 @@
 
 Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
+
+### Mar 20
+* [Vector Space](http://mathworld.wolfram.com/VectorSpace.html)
+
+* [Linear Independence](https://www.wikiwand.com/en/Linear_independence)
+
+* [Class work](class%20work%204.4.jpg)
+
+
 ### Mar 13
 * [Determinant Wikipedia](https://www.wikiwand.com/en/Determinant)
 
