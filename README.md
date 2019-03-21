@@ -12,21 +12,23 @@ Vectors, matrices, determinants, inverse matrix. Systems of linear equations and
 <pre>
 1	13.02	Linear Equations and Matrices
 2	20.02	Linear Equations and Matrices
-3	27.02	Linear Equations and Matrices
+3	27.02	Solving Linear Systems
 4	06.03	Solving Linear Systems
-5	13.03	Solving Linear Systems
-6	20.03	Determinants
-7	27.03	Real Vector Spaces
-8	 ?.04	MIDTERM 1 -- 30%
-9	10.04	Real Vector Spaces
-10	17.04	Inner Product Spaces
-11	24.04	Linear Transformations and Matrices
-12	29.04 Monday MIDTERM 2 -- 30%
-13	08.05	Linear Transformations and Matrices
-14	15.05	Eigenvalues and Eigenvectors
-15	22.05	Eigenvalues and Eigenvectors
+5	13.03	Determinants
+6	20.03	Real Vector Spaces
+7	27.03	Inner Product Spaces
+8	10.04 Wed  MIDTERM 1 -- 30%
+9	15.04	Linear Transformations  **
+10	17.04	Linear Transformations
+11	22.04	Eigenvalues and Eigenvectors  **
+12	24.04	Eigenvalues and Eigenvectors
+13	29.04 Mon  MIDTERM 2 -- 30%
+xx	01.05	(Holiday)
+14	08.05	Least Squares
+15	15.05	General Review
 16	 ?.06	Final exam -- 40%
 </pre>
+** Two Monday lectures (8:30-10:30) will replace May 1 and May 22
 
 ### Grading
 Indicated above (3 exams)
