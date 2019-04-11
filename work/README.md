@@ -1,11 +1,10 @@
-## Useful Links
+﻿## Useful Links
 
 Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
-### Midterm Sotioun
-[Page 1](../exam/mid1%20P1.jpg)
-[Page 2](../exam/mid1%20P2.jpg)
-
+### Midterm Solution
+[Page 1](../exam/mid1%20P1.jpg) | [Page 2](../exam/mid1%20P2.jpg)
+ | [Marks](../exam/marks.md)
 
 ### Mar 27
 * [Basis](https://www.wikiwand.com/en/Basis_(linear_algebra))
