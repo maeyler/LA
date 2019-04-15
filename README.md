@@ -28,7 +28,7 @@ xx	01.05	(Holiday)
 15	15.05	General Review
 16	 ?.06	Final exam -- 40%
 </pre>
-** Two Monday lectures (16-18 in MC163) will replace May 1 and May 22
+** Two Monday lectures (16-18 in MC163) will replace May 15 and May 22
 
 ### Grading
 Indicated above (3 exams)

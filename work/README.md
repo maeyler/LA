@@ -2,6 +2,15 @@
 
 Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
+### Apr 22-24
+
+
+### Apr 15-17
+* [Inner Product](http://mathworld.wolfram.com/InnerProduct.html)
+
+* [Orthogonality](https://www.wikiwand.com/en/Orthogonality)
+
+
 ### Midterm Solution
 [Page 1](../exam/mid1%20P1.jpg) | [Page 2](../exam/mid1%20P2.jpg)
  | [Marks](../exam/marks.md)
