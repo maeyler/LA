@@ -3,6 +3,11 @@
 Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
 ### Apr 22-24
+* [Chapter on Least Squares](../ila0403.pdf)
+
+* [Ordinary Least Squares](https://www.wikiwand.com/en/Ordinary_least_squares)
+
+* [Regression in Google Docs/](https://www.wired.com/2011/01/linear-regression-in-google-docs/)
 
 
 ### Apr 15-17
