@@ -7,7 +7,7 @@ Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
 * [Ordinary Least Squares](https://www.wikiwand.com/en/Ordinary_least_squares)
 
-* [Regression in Google Docs/](https://www.wired.com/2011/01/linear-regression-in-google-docs/)
+* [Regression in Google Docs](https://www.wired.com/2011/01/linear-regression-in-google-docs/)
 
 
 ### Apr 15-17

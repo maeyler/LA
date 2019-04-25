@@ -1,7 +1,7 @@
 ## Linear Algebra
 
 ### Course Contents
-Vectors, matrices, determinants, inverse matrix. Systems of linear equations and solution by reduction to row-echelon form. Vector spaces, Linear Transformations, eigenvalues and eigenvectors.
+Vectors, matrices, determinants, inverse matrix. Systems of linear equations and solution by reduction to row-echelon form. Vector spaces, Inner product, Orthogonal bases and matrices. Linear Transformations, Least Squares, eigenvalues and eigenvectors.
 
 ### Textbook
 * [_Linear Algebra_ by Seyfettin Fakıoğlu](https://www.pandora.com.tr/kitap/linear-algebra-lineer-cebir/458419), FSM VAKIF ÜNİVERSİTESİ YAYINLARI (2015)
@@ -18,13 +18,13 @@ Vectors, matrices, determinants, inverse matrix. Systems of linear equations and
 6	20.03	Real Vector Spaces
 7	27.03	Inner Product Spaces
 8	10.04 Wed  MIDTERM 1 -- 30%
-9	15.04	Linear Transformations  **
+9	15.04	Orthogonal bases and matrices **
 10	17.04	Linear Transformations
-11	22.04	Eigenvalues and Eigenvectors  **
-12	24.04	Eigenvalues and Eigenvectors
+11	22.04	Projection, Least Squares **
+12	24.04	Least Squares application
 13	29.04 Mon  MIDTERM 2 -- 30%
 xx	01.05	(Holiday)
-14	08.05	Least Squares
+14	08.05	Eigenvalues and Eigenvectors
 15	15.05	General Review
 16	 ?.06	Final exam -- 40%
 </pre>
