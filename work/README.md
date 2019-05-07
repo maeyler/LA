@@ -2,6 +2,12 @@
 
 Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
+
+### Midterm Solution
+[Page 1A](../exam/mid2%20P1A.jpg) | [Page 1B](../exam/mid2%20P1B.jpg)
+ | [Page 2](../exam/mid2%20P2.jpg) | [Marks](../exam/marks.md)
+
+
 ### Apr 22-24
 * [Chapter on Least Squares](../ila0403.pdf)
 
@@ -18,7 +24,7 @@ Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
 ### Midterm Solution
 [Page 1](../exam/mid1%20P1.jpg) | [Page 2](../exam/mid1%20P2.jpg)
- | [Marks](../exam/marks.md)
+
 
 ### Mar 27
 * [Basis](https://www.wikiwand.com/en/Basis_(linear_algebra))
