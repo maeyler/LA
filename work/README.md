@@ -3,10 +3,18 @@
 Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
 
+### May 22 General Review
+* [Course summary](Summary.png)
+
+* [Projection calculator](projection.xls)
+
+### May 8
+Eigenvalues and Eigenvectors
+
+
 ### Midterm Solution
 [Page 1A](../exam/mid2%20P1A.jpg) | [Page 1B](../exam/mid2%20P1B.jpg)
  | [Page 2](../exam/mid2%20P2.jpg) | [Marks](../exam/marks.md)
-
 
 ### Apr 22-24
 * [Chapter on Least Squares](../ila0403.pdf)
@@ -15,16 +23,13 @@ Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
 * [Regression in Google Docs](https://www.wired.com/2011/01/linear-regression-in-google-docs/)
 
-
 ### Apr 15-17
 * [Inner Product](http://mathworld.wolfram.com/InnerProduct.html)
 
 * [Orthogonality](https://www.wikiwand.com/en/Orthogonality)
 
-
 ### Midterm Solution
 [Page 1](../exam/mid1%20P1.jpg) | [Page 2](../exam/mid1%20P2.jpg)
-
 
 ### Mar 27
 * [Basis](https://www.wikiwand.com/en/Basis_(linear_algebra))
@@ -32,7 +37,6 @@ Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 * [Problem set 1](Basis-1.jpg)
 
 * [Problem set 2](Basis-2.jpg)
-
 
 ### Mar 20
 * [Vector Space](http://mathworld.wolfram.com/VectorSpace.html)
@@ -55,7 +59,10 @@ Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
 * [Sample equations](sample equations.txt)
 
-* [Sample problems](sample problems.md)
+* [Excel sheets](https://github.com/maeyler/PlainJava/blob/master/linear/sample%20problems.xls?raw=true)
+
+* [Problems from Anton](sample%20problems.jpg)
+
 
 ### Feb 27
 * [Gaussian Elimination](https://www.wikiwand.com/en/Gaussian_elimination#Definitions_and_example_of_algorithm)
@@ -81,7 +88,6 @@ Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 * [Applications of Linear Algebra](http://aix1.uottawa.ca/~jkhoury/app.htm)
 
 * [what-you-can-do-with-LA](https://medium.com/@jeremyjkun/here-s-just-a-fraction-of-what-you-can-do-with-linear-algebra-633383d4153f)
-
 
 ### Books
 * [_Linear Algebra_ by Seyfettin Fakıoğlu](https://www.pandora.com.tr/kitap/linear-algebra-lineer-cebir/458419), FSM Vakıf University (2015)

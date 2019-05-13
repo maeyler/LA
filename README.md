@@ -25,7 +25,8 @@ Vectors, matrices, determinants, inverse matrix. Systems of linear equations and
 13	29.04 Mon  MIDTERM 2 -- 30%
 xx	01.05	(Holiday)
 14	08.05	Eigenvalues and Eigenvectors
-15	15.05	General Review
+xx	15.05 Make-up Exam for 5 students
+15	22.05	General Review
 16	 ?.06	Final exam -- 40%
 </pre>
 ** Two Monday lectures (16-18 in MC163) will replace May 15 and May 22
