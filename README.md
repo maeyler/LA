@@ -27,7 +27,7 @@ xx	01.05	(Holiday)
 14	08.05	Eigenvalues and Eigenvectors
 xx	15.05 Make-up Exam for 5 students
 15	22.05	General Review
-16	 ?.06	Final exam -- 40%
+16	12.06 Wed  Final exam -- 40%
 </pre>
 ** Two Monday lectures (16-18 in MC163) will replace May 15 and May 22
 
