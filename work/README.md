@@ -1,6 +1,8 @@
-﻿## Useful Links
+﻿## Linear Algebra
 
 Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
+
+[Two questions](../exam/Sample-exam.md) from the make-up exam
 
 
 ### May 22 General Review
