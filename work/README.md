@@ -4,6 +4,8 @@ Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
 [Two questions](../exam/Sample-exam.md) from the make-up exam
 
+[Errata](,,/Errata.md) & [Açıklama](http://matemacik.blogspot.com/2017/07/lineer-denklemler.html)
+
 
 ### May 22 General Review
 * [Course summary](Summary.png)
@@ -14,7 +16,7 @@ Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
 
 ### May 8
-* Eigenvalues and Eigenvectors
+* [Eigenvalues and Eigenvectors](https://www.wikiwand.com/en/Eigenvalues_and_eigenvectors)
 
 * [Diagonalization](Diagonalization.jpg)
 
