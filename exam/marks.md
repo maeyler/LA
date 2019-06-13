@@ -1,88 +1,122 @@
-### Midterm marks
+## Final Sınavı Hakkında
+
+*Kağıtlarınızı 19 Haz Çarş 10-14 arasında tuğla binada görebilirsiniz*
+
+Kağıtlara bakmanızın amacı hatalarınızı görmek ve toplamları kontrol etmek. Notlandırmaya itiraz ederseniz _bütün sınav_ yeniden değerlendirilir ve toplam notunuz düşebilir.
+
+Ortalama 48, max 87, min 01
+
+FF alan 15 kişinin BÜT şansı var -- biraz daha çalışmak gerekiyor
+
+Bağıl Değerlendirme kullandığım için finalde 35 almak şart oldu
+
+1. soruda cevaplar 3x3, 80x1 gibi boyutlar olacaktı -- rank=3 çünkü tersi var
+
+Hata vektörü e'ye dik 4 vektör: p ve A'nın üç sütunu
+
+2. p = 10u1+5u2 = (5,10,0) ikisi de doğru cevap ve aynı uzunluğu veriyor
+
+Ortogonal matrisi bulup tersini almaya uğraştıysanız, doğru cevap bulsanız bile puan kaybettiniz
+
+3. Sınıfın büyük çoğunluğu indirgemeyi tamamlamamış -- R matrisinde gizli I'yı göstermek gerekiyordu (indirgemeden de sonuç bulunur, ama soru o değildi)
+
+Satır uzayı için koordinat toplamı sıfır olan iki satır yazmak yeterli: x+y+z=0 düzlemi (vektörler 3 boyutlu olmalı, 2 ya da 4 boyut yanlış)
+
+Sütunlar arasında da aynı ilişki var elbette: C1+C2+C3=0
+
+4. Char eq λ(λ-2) *değil* -- bunu sıfıra eşitlemezseniz denklem olmaz
+
+det(A)=0 olduğuna göre rank(A)=1
+
+Sıfır uzayı tek boyutlu: t(1,−1)
+
+
+
+### Grades & exam marks
 
 ```
-Std Num   Mid2
-150314034  28
-150314040  xx
-150314055  62
-150314854  xx
-150315003  xx
-150315011  xx
-150315017  38
-150315040  xx
-150315051  30
-150315053  83
-150315852  xx
-150315853  xx
-150316002  63
-150316003  97
-150316004  73
-150316005  48
-150316007  32
-150316009  92
-150316010  44
-150316013  16
-150316014  65
-150316015  49
-150316016  47
-150316017  59
-150316018  69
-150316019  80
-150316020  37
-150316023  68
-150316024  42
-150316026  87
-150316027  95
-150316028   6
-150316029  35
-150316030  45
-150316031  61
-150316033  xx
-150316035  72
-150316037  56
-150316038  41
-150316039  40
-150316041  88
-150316042  76
-150316045  88
-150316046  80
-150316047  76
-150316049  70
-150316050  75
-150316051  85
-150316053  41
-150316055  50
-150316056  66
-150316057  57
-150316058  74
-150316059  95
-150316060  66
-150316061  70
-150316064  73
-150316502  52
-150317001  xx
-150317003  66
-150317015  31
-150317017  76
-150317020  75
-150317021  64
-150317022  55
-150317025  56
-150317028  57
-150317040  54
-150317045  53
-150317053  55
-150317504  75
-150317507  80
-150317508  52
-150317510  28
-150317852   4
-150318821  96
-150318822  95
-150318823  55
-150318827  50
-150318841  50
-150318842  71
-150515023  60
-     Mean  55
+Std Num   Grd Final
+150314034  FF  9
+150314040  DD  35
+150314055  BB  64
+150314854  FG  x
+150315003  DZ  x
+150315011  FF  35
+150315017  FF  14
+150315040  DZ  x
+150315051  FF  17
+150315053  BB  64
+150315852  DD  38
+150315853  DZ  x
+150316002  CC  51
+150316003  BA  62
+150316004  BB  70
+150316005  DC  35
+150316007  FF  7
+150316009  AA  87
+150316010  DC  40
+150316013  FF  30
+150316014  CB  41
+150316015  CB  62
+150316016  CB  60
+150316017  CC  43
+150316018  BA  77
+150316019  BB  62
+150316020  FF  12
+150316023  CB  56
+150316024  DC  48
+150316026  AA  76
+150316027  AA  80
+150316028  FF  6
+150316029  DC  51
+150316030  DC  56
+150316031  CB  60
+150316033  FF  1
+150316035  FF  17
+150316037  FF  10
+150316038  FF  14
+150316039  FF  25
+150316041  BA  66
+150316042  CC  38
+150316045  BA  77
+150316046  CB  45
+150316047  CB  51
+150316049  BB  70
+150316050  CB  46
+150316051  BB  60
+150316053  DC  35
+150316055  CC  35
+150316056  CC  35
+150316057  CC  44
+150316058  BB  58
+150316059  BA  69
+150316060  CB  49
+150316061  CB  46
+150316064  BB  61
+150316502  DC  47
+150317001  DZ  x
+150317003  BB  66
+150317015  DD  35
+150317017  CC  44
+150317020  CB  57
+150317021  BA  75
+150317022  CB  58
+150317025  CC  51
+150317028  CC  48
+150317040  FF  25
+150317045  DC  41
+150317053  BB  71
+150317504  CB  40
+150317507  CB  55
+150317508  BB  73
+150317510  FF  48
+150317852  DZ  x
+150318821  AA  63
+150318822  AA  69
+150318823  CB  60
+150318827  BA  78
+150318841  CC  39
+150318842  CB  47
+150515023  DC  35
+         Mean  48
 ```

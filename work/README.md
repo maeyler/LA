@@ -1,10 +1,15 @@
 ﻿## Linear Algebra
 
+
 Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
 [Two questions](../exam/Sample-exam.md) from the make-up exam
 
-[Errata](,,/Errata.md) & [Açıklama](http://matemacik.blogspot.com/2017/07/lineer-denklemler.html)
+[Errata](../Errata.md) & [Açıklama](http://matemacik.blogspot.com/2017/07/lineer-denklemler.html)
+
+
+### June 12 Final Exam
+[Marks](../exam/marks.md)
 
 
 ### May 22 General Review
@@ -25,7 +30,7 @@ Important Tool: [Solver](https://maeyler.github.io/JS/linear/Equation.html)
 
 ### Midterm Solution
 [Page 1A](../exam/mid2%20P1A.jpg) | [Page 1B](../exam/mid2%20P1B.jpg)
- | [Page 2](../exam/mid2%20P2.jpg) | [Marks](../exam/marks.md)
+ | [Page 2](../exam/mid2%20P2.jpg)
 
 ### Apr 22-24
 * [Chapter on Least Squares](../ila0403.pdf)
