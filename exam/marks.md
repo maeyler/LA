@@ -1,6 +1,6 @@
 ## Final Sınavı Hakkında
 
-*Kağıtlarınızı 19 Haz Çarş 10-14 arasında tuğla binada görebilirsiniz*
+*Kağıtlarınızı 19 Haz Çarş 12-14 arasında tuğla binada görebilirsiniz*
 
 Kağıtlara bakmanızın amacı hatalarınızı görmek ve toplamları kontrol etmek. Notlandırmaya itiraz ederseniz _bütün sınav_ yeniden değerlendirilir ve toplam notunuz düşebilir.
 
